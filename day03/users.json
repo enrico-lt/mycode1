@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "RZ",
+      "type": "author",
+      "age": 99,
+      "social": {
+        "facebook": "https://facebook.com",
+        "twitter": "https://twitter.com"
+      },
+      "anotherField": "hello World"
+    },
+    {
+      "name": "Chad",
+      "type": "instructor",
+      "age": 65,
+      "social": {
+        "facebook": "https://facebook.com",
+        "twitter": "https://twitter.com"
+      },
+      "anotherField": "hello World"
+    }
+  ]
+}
